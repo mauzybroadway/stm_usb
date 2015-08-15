@@ -1,3 +1,4 @@
+# The core of this Makefile comes with great thanks to github.com/rowol's fantastic work.
 
 # Put your stlink folder here so make burn will work.
 STLINK=/usr/local/bin
